@@ -1,6 +1,6 @@
 <h3>Hi I'm Kansha!</h3>
 
-#Intro about me
+<!-- #Intro about me
 
 # Programming skills icons 
 
@@ -8,6 +8,6 @@
 
 #Link to portfolio site 
 
-# Link to linkedIn, behance 
+# Link to linkedIn, behance  -->
 
 
