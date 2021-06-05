@@ -3,13 +3,14 @@ A self-taught enthusiastic Fullstack Developer & a part-time Software Engineerin
 
 <br>
 
-My tools :
+**My tools** :
 <br>
 ![Frame 4](https://user-images.githubusercontent.com/47423150/120887536-0af7c900-c626-11eb-9b87-baabc6bb7fd6.jpg)
 
 <!-- # Medium articles link -->
 <br>
-Connect with me: 
+
+**Connect with me**: 
 <br>
 LinkedIn : linkedin.com/in/kansha-guna/
 <br>
