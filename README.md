@@ -1,5 +1,5 @@
 <h3>Hi, I'm Kansha!</h3>
-A self-taught enthusiastic Fullstack Web Developer & a part-time Software Engineering student. I am highly passionate about using & building tech with and for a purpose. Always looking to learn and grow personally & professionally. 
+I'm a Software Engineering graduate and an aspiring Data Scientist. I am highly passionate about using & building tech with and for a purpose. Always looking to learn and grow personally & professionally. 
 
 <br>
 
