@@ -3,7 +3,7 @@ I'm a Software Engineering graduate and an aspiring Data Scientist. I am highly 
 
 <br>
 
-<!--- and ---> **My tools** :
+<!--- **My tools** : ---> 
 <br>
 <!--- ![Frame 4](https://user-images.githubusercontent.com/47423150/120887536-0af7c900-c626-11eb-9b87-baabc6bb7fd6.jpg) ---> 
 
