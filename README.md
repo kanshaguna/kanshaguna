@@ -3,9 +3,9 @@ I'm a Software Engineering graduate and an aspiring Data Scientist. I am highly 
 
 <br>
 
-**My tools** :
+<!--- and ---> **My tools** :
 <br>
-![Frame 4](https://user-images.githubusercontent.com/47423150/120887536-0af7c900-c626-11eb-9b87-baabc6bb7fd6.jpg)
+<!--- ![Frame 4](https://user-images.githubusercontent.com/47423150/120887536-0af7c900-c626-11eb-9b87-baabc6bb7fd6.jpg) ---> 
 
 <!-- # Medium articles link -->
 <br>
@@ -19,7 +19,7 @@ Behance: behance.net/kanshaguna
 Email : kanshaguna@gmail.com
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanshaguna)](https://github.com/kanshaguna/github-readme-stats)
+<!--- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanshaguna)](https://github.com/kanshaguna/github-readme-stats) ---> 
 
 
 
